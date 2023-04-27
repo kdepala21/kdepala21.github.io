@@ -1,0 +1,32 @@
+body {
+  /*font-family: Lato, sans-serif;*/
+  /*background: var(--bs-gray-900);*/
+}
+
+#jumboimg {
+  padding: 50px;
+  background: url("../../assets/img/kushCoffee.jpg");
+  background-size: cover;
+}
+
+#hero234 {
+  background: url("../../assets/img/kushCoffeeL.jpg");
+  background-size: inherit;
+  height: 800px;
+}
+
+h1 {
+}
+
+#HeroText {
+  background-color: rgba(8,8,8,.4);
+}
+
+a {
+  text-decoration: none;
+}
+
+#SubstackLogo {
+  width: 20px;
+}
+
